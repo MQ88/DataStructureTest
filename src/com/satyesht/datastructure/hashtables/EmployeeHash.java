@@ -15,7 +15,7 @@ public class EmployeeHash {
 	public void setKey(String key) {
 		this.key = key;
 	}
-	public EmployeeHash(Employee e, String key) {
+	public EmployeeHash(String key, Employee e) {
 		super();
 		this.e = e;
 		this.key = key;
@@ -24,6 +24,7 @@ public class EmployeeHash {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+
 	
 	
 

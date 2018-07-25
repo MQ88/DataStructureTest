@@ -3,7 +3,7 @@ public class Hashtest {
 
 	
 	public static void main(String[] args) {
-		EmployeeHashTable hashtable=new EmployeeHashTable();
+		LinearHashTable hashtable=new LinearHashTable();
 		Employee e1=new Employee(1, "Satyesh Tripathi");
 		Employee e2=new Employee(2, "Neetika Tripathi");
 		Employee e3=new Employee(3, "Abhinav Nath");
