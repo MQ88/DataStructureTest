@@ -1,4 +1,4 @@
-package com.satyesht.datastructure.hashtables;
+package datastructure.hashtables;
 public class Hashtest {
 
 	

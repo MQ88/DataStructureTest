@@ -1,4 +1,4 @@
-package com.satyesht.datastructure.heaps;
+package datastructure.heaps;
 
 public class HeapRunner {
 

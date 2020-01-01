@@ -1,4 +1,4 @@
-package com.satyesht.datastructure.hashtables;
+package datastructure.hashtables;
 
 import java.util.Arrays;
 
